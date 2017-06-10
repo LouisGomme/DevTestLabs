@@ -1,6 +1,6 @@
 <##################################################################################################
 
-    Description
+    Description2
     ===========
 
     - This script enables local administrators on custom Windows Client OS images (they are 
